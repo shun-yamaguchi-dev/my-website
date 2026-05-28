@@ -7,4 +7,4 @@ This is a Quarto website.
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 
-[About](about.qmd) | [Links](links.qmd) | [Contact](contacts.qmd)
+[About](about.qmd) | [Links](links.qmd) | [Contact](contacts.qmd) | [Dono](https://ko-fi.com/shuny)
