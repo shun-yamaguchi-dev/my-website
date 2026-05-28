@@ -2,29 +2,29 @@
   {
     "objectID": "links.html",
     "href": "links.html",
-    "title": "My Website",
+    "title": "wip",
     "section": "",
-    "text": "This must work as a Link-in-bio page."
+    "text": "wip\nThis must work as a Link-in-bio"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "About this site\nwip"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "My Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nAbout | Links | Contact | Dono"
+    "text": "This is a Quarto website.\nwip\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nAbout | Links | Contact | Dono"
   },
   {
     "objectID": "contacts.html",
     "href": "contacts.html",
-    "title": "My Website",
+    "title": "wip",
     "section": "",
-    "text": "Here must be contact links."
+    "text": "wip\nHere must be contact links."
   }
 ]
