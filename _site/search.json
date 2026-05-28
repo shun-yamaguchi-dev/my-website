@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "My Website",
+    "section": "",
+    "text": "This must work as a Link-in-bio page."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "My Website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\nAbout | Links | Contact"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "My Website",
+    "section": "",
+    "text": "Here must be contact links."
+  }
+]
