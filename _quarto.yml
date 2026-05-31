@@ -19,9 +19,8 @@ website:
     left:
       - text: © 2026 Shun Yamaguchi
     right:
-      - href: https://ko-fi.com/shuny/
-        text: ☕️ Buy me a coffee
-
+      - text: Buy me a coffee
+        href: https://ko-fi.com/shuny/
 format:
   html:
     theme:
