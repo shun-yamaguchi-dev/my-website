@@ -9,4 +9,4 @@ I'm using Quarto to build this website to practice use of Quarto.
 Also I'm learning network side as well.
 
 
-[About](about.qmd) | [Links](links.qmd) | [Contact](contacts.qmd) | [Dono](https://ko-fi.com/shuny)
+[About](about.qmd) | [Links](links.qmd) | [Contact](contact.qmd) | [Dono](https://ko-fi.com/shuny)
