@@ -7,13 +7,6 @@
     "text": "wip\nThis must work as a Link-in-bio"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\nwip"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shun’s Homepage",
@@ -21,10 +14,17 @@
     "text": "wip\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nAbout | Links | Contact | Dono"
   },
   {
-    "objectID": "contacts.html",
-    "href": "contacts.html",
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "Contact",
     "section": "",
     "text": "wip\nHere must be contact links."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\nwip"
   }
 ]
