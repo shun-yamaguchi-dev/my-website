@@ -8,5 +8,6 @@ I'm using Quarto to build this website to practice use of Quarto.
 
 Also I'm learning network side as well.
 
+I'll build this website well after learing graph theory (intro part).
 
 [About](about.qmd) | [Links](links.qmd) | [Contact](contact.qmd) | [Dono](https://ko-fi.com/shuny)
