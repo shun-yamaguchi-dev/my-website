@@ -12,7 +12,7 @@ website:
         text: About
       - href: links.qmd
         text: Links
-      - href: contacts.qmd
+      - href: contact.qmd
         text: Contact
     
   page-footer:
