@@ -4,14 +4,28 @@
     "href": "links.html",
     "title": "Link-in-bio",
     "section": "",
-    "text": "wip\nThis must work as a Link-in-bio"
+    "text": "This must work as a Link-in-bio"
+  },
+  {
+    "objectID": "links.html#general-purpose",
+    "href": "links.html#general-purpose",
+    "title": "Link-in-bio",
+    "section": "General Purpose",
+    "text": "General Purpose\n\nFacebook\nBluesky"
+  },
+  {
+    "objectID": "links.html#engineering",
+    "href": "links.html#engineering",
+    "title": "Link-in-bio",
+    "section": "Engineering",
+    "text": "Engineering\n\nGitHub\nGitLab\nHachyderm"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shun’s Homepage",
     "section": "",
-    "text": "wip\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learing graph theory (intro part).\nAbout | Links | Contact | Dono"
+    "text": "wip\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
   },
   {
     "objectID": "contact.html",

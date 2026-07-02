@@ -5,3 +5,15 @@ title: "Link-in-bio"
 # wip
 
 This must work as a Link-in-bio
+
+# Social Media
+
+## General Purpose 
+- [Facebook](https://www.facebook.com/shun.yamaguchi.social)
+- [Bluesky](https://bsky.app/profile/network.shunyamaguchi.com)
+
+## Engineering
+- [GitHub](https://github.com/shun-yamaguchi-dev)
+- [GitLab](https://gitlab.com/shun-yamaguchi-dev)
+- [Hachyderm](https://hachyderm.io/@shun)
+
