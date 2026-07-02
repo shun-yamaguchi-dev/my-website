@@ -9,11 +9,11 @@ This must work as a Link-in-bio
 # Social Media
 
 ## General Purpose 
-- [Facebook](https://www.facebook.com/shun.yamaguchi.social)
-- [Bluesky](https://bsky.app/profile/network.shunyamaguchi.com)
+- [Facebook](https://www.facebook.com/shun.yamaguchi.social){target="_blank"}
+- [Bluesky](https://bsky.app/profile/network.shunyamaguchi.com){target="_blank"}
 
 ## Engineering
-- [GitHub](https://github.com/shun-yamaguchi-dev)
-- [GitLab](https://gitlab.com/shun-yamaguchi-dev)
-- [Hachyderm](https://hachyderm.io/@shun)
+- [GitHub](https://github.com/shun-yamaguchi-dev){target="_blank"}
+- [GitLab](https://gitlab.com/shun-yamaguchi-dev){target="_blank"}
+- [Hachyderm](https://hachyderm.io/@shun){target="_blank"}
 
