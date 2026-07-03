@@ -40,3 +40,11 @@
   font-size: 0.9rem;
   color: #666;
 }
+
+/* Fix the CSS config*/
+.contact-block {
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 0.5rem;
+}
