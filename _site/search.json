@@ -4,7 +4,28 @@
     "href": "links.html",
     "title": "Link-in-bio",
     "section": "",
-    "text": "This must work as a Link-in-bio"
+    "text": "CS student focused on systems, mathematics, and structured knowledge work.\nCurrently building personal knowledge infrastructure.\n\n\n\n\n\n\nSocial identity\n\n\n\nCode and projects\n\n\n\n\n\n\n\n\n\nCompetitive programming\n\n\n\nProblem solving\n\n\n\n\n\n\n\n\n\nTechnical knowledge base\n\n\n\nLong-term writing"
+  },
+  {
+    "objectID": "links.html#core-presence",
+    "href": "links.html#core-presence",
+    "title": "Link-in-bio",
+    "section": "",
+    "text": "Social identity\n\n\n\nCode and projects"
+  },
+  {
+    "objectID": "links.html#work-proof",
+    "href": "links.html#work-proof",
+    "title": "Link-in-bio",
+    "section": "",
+    "text": "Competitive programming\n\n\n\nProblem solving"
+  },
+  {
+    "objectID": "links.html#writing",
+    "href": "links.html#writing",
+    "title": "Link-in-bio",
+    "section": "",
+    "text": "Technical knowledge base\n\n\n\nLong-term writing"
   },
   {
     "objectID": "links.html#general-purpose",
@@ -25,27 +46,48 @@
     "href": "index.html",
     "title": "Shun’s Homepage (wip)",
     "section": "",
-    "text": "CS student focused on system design and mathematics.\n\n\n\nStudying in undergrad programm seaking CS degree with strong argorithm and math skills.\n\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
+    "text": "Shun Yamaguchi\nCS student focused on system design and mathematics.\nCurrently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
   },
   {
-    "objectID": "index.html#current",
-    "href": "index.html#current",
-    "title": "Shun’s Homepage (wip)",
-    "section": "",
-    "text": "Studying in undergrad programm seaking CS degree with strong argorithm and math skills.\n\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
+    "objectID": "contact.html#secondary",
+    "href": "contact.html#secondary",
     "title": "Contact",
-    "section": "",
-    "text": "wip\nHere must be contact links."
+    "section": "Secondary",
+    "text": "Secondary\nFacebook Messenger"
+  },
+  {
+    "objectID": "contact.html#response-time",
+    "href": "contact.html#response-time",
+    "title": "Contact",
+    "section": "Response time",
+    "text": "Response time\n1-3 days"
+  },
+  {
+    "objectID": "contact.html#optional",
+    "href": "contact.html#optional",
+    "title": "Contact",
+    "section": "Optional",
+    "text": "Optional\nGitHub Issues (technical discussion only)"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About (wip)",
     "section": "",
-    "text": "About this site\nwip"
+    "text": "I study Computer Science with a focus on systems, mathematics, and structured thinking.\n\n\n\n\nALgorithms and problem solving\nSystem design\nKnowledge organization using visual aides\nMathematical tinking\n\n\n\n\n\nI am building long-term personal infrastructure for managing info automatically to reduce cognitive burdens."
+  },
+  {
+    "objectID": "about.html#interests",
+    "href": "about.html#interests",
+    "title": "About (wip)",
+    "section": "",
+    "text": "ALgorithms and problem solving\nSystem design\nKnowledge organization using visual aides\nMathematical tinking"
+  },
+  {
+    "objectID": "about.html#direction",
+    "href": "about.html#direction",
+    "title": "About (wip)",
+    "section": "",
+    "text": "I am building long-term personal infrastructure for managing info automatically to reduce cognitive burdens."
   }
 ]
