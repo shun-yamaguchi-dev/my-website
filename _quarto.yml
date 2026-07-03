@@ -6,28 +6,26 @@ website:
 
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - href: about.qmd
-        text: About
-      - href: links.qmd
-        text: Links
-      - href: contact.qmd
-        text: Contact
-    
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Links"
+        href: links.qmd
+      - text: "Contact"
+        href: contact.qmd
+
   page-footer:
     left:
-      - text: © 2026 Shun Yamaguchi
+      - text: "© 2026 Shun Yamaguchi"
     right:
       - text: "☕️ Buy me a coffee"
-        href: https://ko-fi.com/shuny/
+        href: https://ko-fi.com/shuny
+
 format:
   html:
     theme:
       - cosmo
       - brand
     css: styles.css
-    toc: true
-
-
-
+    toc: false

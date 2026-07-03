@@ -1,7 +1,22 @@
 ---
-title: "About"
+title: "About (wip)"
 ---
 
-About this site
+# About
 
-wip
+I study Computer Science with a focus on systems, mathematics, and structured thinking.
+
+---
+
+## Interests
+
+- ALgorithms and problem solving
+- System design
+- Knowledge organization using visual aides
+- Mathematical tinking
+
+---
+
+## DIrection
+
+I am building long-term personal infrastructure for managing info automatically to reduce cognitive burdens.

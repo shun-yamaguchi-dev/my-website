@@ -2,9 +2,70 @@
 title: "Link-in-bio"
 ---
 
-# wip
+# Links
 
-This must work as a Link-in-bio
+CS student focused on systems, mathematics, and structured knowledge work.
+
+Currently building personal knowledge infrastructure.
+
+---
+
+## Core Presence
+
+::: {.grid}
+
+::: {.g-col-6}
+### Facebook
+Social identity
+:::
+
+::: {.g-col-6}
+### GitHub
+Code and projects
+:::
+
+:::
+
+---
+
+## Work / Proof
+
+::: {.grid}
+
+::: {.g-col-6}
+### TopCoder
+Competitive programming
+:::
+
+::: {.g-col-6}
+### Codeforces
+Problem solving
+:::
+
+:::
+
+---
+
+## Writing
+
+::: {.grid}
+
+::: {.g-col-6}
+### Notes
+Technical knowledge base
+:::
+
+::: {.g-col-6}
+### Blog
+Long-term writing
+::::
+
+:::
+
+
+
+
+
 
 # Social Media
 

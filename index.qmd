@@ -1,8 +1,12 @@
 ---
-title: "Shun's Homepage"
+title: "Shun's Homepage (wip)"
 ---
 
-wip
+# Shun Yamaguchi
+CS student focused on system design and mathematics. 
+
+Currently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.
+
 
 I'm using Quarto to build this website to practice use of Quarto.
 
