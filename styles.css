@@ -48,3 +48,11 @@
   align-items: center;
   gap: 0.5rem;
 }
+
+/* Fix gaps between links and texts */
+.contact-block a,
+.contact-block span,
+.contact-block p {
+  display: inline;
+  margin: 0;
+}
