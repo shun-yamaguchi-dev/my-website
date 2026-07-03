@@ -2,6 +2,8 @@
 title: "Shun's Homepage (wip)"
 ---
 
+---
+
 # Shun Yamaguchi
 CS student focused on system design and mathematics. 
 

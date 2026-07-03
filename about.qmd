@@ -2,8 +2,6 @@
 title: "About (wip)"
 ---
 
-# About
-
 I study Computer Science with a focus on systems, mathematics, and structured thinking.
 
 ---
