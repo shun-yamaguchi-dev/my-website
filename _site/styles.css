@@ -41,18 +41,20 @@
   color: #666;
 }
 
-/* Fix the parallel view */
+/*
+Fix the parallel view
 .contact-block {
   display: flex;
-  flex-wrap: nowrap; /* or wrap */
+  flex-wrap: nowrap;  or wrap
   align-items: center;
   gap: 0.5rem;
 }
 
-/* Fix gaps between links and texts */
+ Fix gaps between links and texts
 .contact-block a,
 .contact-block span,
 .contact-block p {
   display: inline;
   margin: 0;
 }
+*/
