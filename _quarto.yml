@@ -18,9 +18,15 @@ website:
   page-footer:
     left:
       - text: "© 2026 Shun Yamaguchi"
-    right:
-      - text: "☕️ Buy me a coffee"
-        href: https://ko-fi.com/shuny
+    right: |
+      <a href="https://ko-fi.com/shuny"
+         target="_blank"
+         rel="noopener noreferrer">
+        ☕️ Buy me a coffee
+      </a>
+#    right:
+#      - text: "☕️ Buy me a coffee"
+#        href: https://ko-fi.com/shuny
 
 format:
   html:

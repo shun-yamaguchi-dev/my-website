@@ -16,4 +16,4 @@ Also I'm learning network side as well.
 
 I'll build this website well after learning graph theory (intro part).
 
-[About](about) | [Links](links) | [Contact](contact) | [Dono](https://ko-fi.com/shuny)
+[About](about) | [Links](links) | [Contact](contact) | [Dono](https://ko-fi.com/shuny){target="_blank"}
