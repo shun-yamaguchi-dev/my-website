@@ -15,13 +15,13 @@ Currently building personal knowledge infrastructure.
 ::: {.grid}
 
 ::: {.g-col-6}
-### Facebook
+### [Facebook](https://facebook.com/shun.yamaguchi.social)
 Social identity
 :::
 
 ::: {.g-col-6}
-### GitHub
-Code and projects
+### [GitHub](https://bsky.app/profile/network.shunyamaguchi.com)
+Public network.
 :::
 
 :::
@@ -33,13 +33,23 @@ Code and projects
 ::: {.grid}
 
 ::: {.g-col-6}
-### TopCoder
+### GitHub
+General works
+:::
+
+::: {.g-col-6}
+### [TopCoder](https://profiles.topcoder.com/shun.dev)
 Competitive programming
 :::
 
 ::: {.g-col-6}
-### Codeforces
+### [Codeforces](https://codeforces.com/profile/shuny)
 Problem solving
+:::
+
+::: {.g-col-6}
+### Codewars
+Major comptition
 :::
 
 :::
@@ -51,13 +61,27 @@ Problem solving
 ::: {.grid}
 
 ::: {.g-col-6}
-### Notes
+### [Notes](notes)
 Technical knowledge base
 :::
 
 ::: {.g-col-6}
 ### Blog
 Long-term writing
-::::
+:::
+
+:::
+
+## Navigation
+
+::: {.grid}
+
+::: {.g-col-6}
+### [Resume]{resume}
+:::
+
+::: {.g-ol-6}
+### [Portfolio](portfolio)
+:::
 
 :::
