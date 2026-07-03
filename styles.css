@@ -41,16 +41,10 @@
   color: #666;
 }
 
-/* Fix the CSS config*/
+/* Fix the parallel view */
 .contact-block {
   display: flex;
   flex-wrap: nowrap;
   align-items: center;
   gap: 0.5rem;
-}
-
-/* Accept flap to fix appearance on any environment */
-.contact-block {
-  display: flex;
-  flex-wrap: wrap;
 }
