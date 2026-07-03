@@ -24,11 +24,6 @@ Social Identity
 Public Network in AP Protocol
 :::
 
-::: {.g-col-6}
-### [GitHub](https://github.com/shun-yamaguchi-dev){target="_blank"}
-Engineer Identity
-:::
-
 :::
 
 ---
@@ -45,6 +40,11 @@ Career
 ::: {.g-col-6}
 ### [ORCID](https://orcid.org/0009-0006-1186-2126){target=_blank}
 Academic Identity
+:::
+
+::: {.g-col-6}
+### [GitHub](https://github.com/shun-yamaguchi-dev){target="_blank"}
+Engineer Identity
 :::
 
 ::: {.g-col-6}
