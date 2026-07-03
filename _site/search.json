@@ -60,7 +60,14 @@
     "href": "index.html",
     "title": "Shun Yamaguchi",
     "section": "",
-    "text": "CS student focused on system design and mathematics.\nCurrently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.\nI’m using Quarto to build this website to practice use of Quarto.\nAlso I’m learning network side as well.\nI’ll build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
+    "text": "CS student focused on system design and mathematics.\nCurrently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.\nAlso I’m learning network side as well."
+  },
+  {
+    "objectID": "index.html#side-note",
+    "href": "index.html#side-note",
+    "title": "Shun Yamaguchi",
+    "section": "Side Note:",
+    "text": "Side Note:\nI’m using Quarto to build this website to practice use of Quarto.\nPlus, I will build this website well after learning graph theory (intro part).\nAbout | Links | Contact | Dono"
   },
   {
     "objectID": "links.html",

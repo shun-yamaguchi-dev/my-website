@@ -8,11 +8,11 @@ CS student focused on system design and mathematics.
 
 Currently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.
 
-
-I'm using Quarto to build this website to practice use of Quarto.
-
 Also I'm learning network side as well.
 
-I'll build this website well after learning graph theory (intro part).
+## Side Note:
+I'm using Quarto to build this website to practice use of Quarto.
+
+Plus, I will build this website well after learning graph theory (intro part).
 
 [About](about) | [Links](links) | [Contact](contact) | [Dono](https://ko-fi.com/shuny){target="_blank"}
