@@ -37,7 +37,7 @@ Engineer Identity
 
 ::: {.grid}
 
-::: {g-col-6}
+::: {.g-col-6}
 ### [ORCID](https://orcid.org/0009-0006-1186-2126){target=_blank}
 Academic Identity
 :::
