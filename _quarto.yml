@@ -10,6 +10,10 @@ website:
         href: index.qmd
       - text: "About"
         href: about.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
       - text: "Links"
         href: links.qmd
       - text: "Contact"

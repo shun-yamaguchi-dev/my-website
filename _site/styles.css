@@ -48,3 +48,9 @@
   align-items: center;
   gap: 0.5rem;
 }
+
+/* Accept flap to fix appearance on any environment */
+.contact-block {
+  display: flex;
+  flex-wrap: wrap;
+}
