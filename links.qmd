@@ -75,16 +75,12 @@ Long-Term Writing
 
 ::: {.g-col-6}
 ### [Resume](resume.qmd)
-Professional Backgrounds
-
-(Coming soon...)
+Professional Backgrounds (Coming soon...)
 :::
 
 ::: {.g-col-6}
 ### [Portfolio](portfolio.qmd)
-Collection of Works
-
-(Coming soon...)
+Collection of Works (Coming soon...)
 :::
 
 :::
