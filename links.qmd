@@ -34,7 +34,7 @@ Public Network in AP Protocol
 
 ::: {.g-col-6}
 ### [LinkedIn](https://www.linkedin.com/in/shunyamaguchi)
-Career
+Career Profile
 :::
 
 ::: {.g-col-6}
@@ -47,6 +47,7 @@ Academic Identity
 Engineer Identity
 :::
 
+<!--
 ::: {.g-col-6}
 ### [TopCoder](https://profiles.topcoder.com/shun.dev){target="_blank"}
 Competitive Programming
@@ -56,6 +57,7 @@ Competitive Programming
 ### [Codeforces](https://codeforces.com/profile/shuny){target="_blank"}
 Problem Solving
 :::
+-->
 
 :::
 
