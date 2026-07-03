@@ -1,10 +1,9 @@
 ---
-title: "Shun's Homepage (wip)"
+title: "Shun Yamaguchi"
 ---
 
 ---
 
-# Shun Yamaguchi
 CS student focused on system design and mathematics. 
 
 Currently, studying in undergrad programm seaking CS degree with strong argorithm and math skills.
