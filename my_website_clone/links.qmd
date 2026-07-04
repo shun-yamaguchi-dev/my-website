@@ -1,0 +1,100 @@
+---
+title: "Link-in-bio"
+---
+
+---
+
+CS student focused on systems, mathematics, and structured knowledge work.
+
+Currently building personal knowledge infrastructure.
+
+---
+
+## Core Presence
+
+::: {.grid}
+
+::: {.g-col-6}
+### [Facebook](https://facebook.com/shun.yamaguchi.social){target="_blank"}
+Social Identity
+:::
+
+::: {.g-col-6}
+### [Bluesky](https://bsky.app/profile/network.shunyamaguchi.com){target="_blank"}
+Public Network in AP Protocol
+:::
+
+:::
+
+---
+
+## Work / Proof
+
+::: {.grid}
+
+::: {.g-col-6}
+### [LinkedIn](https://www.linkedin.com/in/shunyamaguchi)
+Career Profile
+:::
+
+::: {.g-col-6}
+### [ORCID](https://orcid.org/0009-0006-1186-2126){target=_blank}
+Academic Identity
+:::
+
+::: {.g-col-6}
+### [GitHub](https://github.com/shun-yamaguchi-dev){target="_blank"}
+Engineer Identity
+:::
+
+<!--
+::: {.g-col-6}
+### [TopCoder](https://profiles.topcoder.com/shun.dev){target="_blank"}
+Competitive Programming
+:::
+
+::: {.g-col-6}
+### [Codeforces](https://codeforces.com/profile/shuny){target="_blank"}
+Problem Solving
+:::
+-->
+
+:::
+
+---
+
+## Writing
+
+::: {.grid}
+
+::: {.g-col-6}
+### Notes
+Technical Knowledge Base
+:::
+
+::: {.g-col-6}
+### Blog
+Long-Term Writing
+:::
+
+:::
+
+---
+
+## Navigation
+
+::: {.grid}
+
+::: {.g-col-6}
+### [Resume](resume.qmd)
+Professional Backgrounds (Coming soon...)
+:::
+
+::: {.g-col-6}
+### [Portfolio](portfolio.qmd)
+Collection of Works (Coming soon...)
+:::
+
+:::
+
+---

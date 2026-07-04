@@ -1,0 +1,60 @@
+/* css styles */
+
+/* =========================
+   Minimal link grid (no card look)
+========================= */
+
+.grid {
+  align-items: start;
+  gap: 0.9rem;
+}
+
+.grid .g-col-6 {
+  display: flex;
+}
+
+/* REMOVE card appearance completely */
+.grid .g-col-6 > * {
+  flex: 1;
+  padding: 0.2rem 0;
+  border: none;
+  background: transparent;
+  border-radius: 0;
+
+  display: block;
+  min-height: unset;
+
+  transition: none;
+}
+
+/* title = link */
+.grid h3 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 500;
+}
+
+/* description = secondary line */
+.grid p {
+  margin: 0.2rem 0 0 0;
+  font-size: 0.9rem;
+  color: #666;
+}
+
+/*
+Fix the parallel view
+.contact-block {
+  display: flex;
+  flex-wrap: nowrap;  or wrap
+  align-items: center;
+  gap: 0.5rem;
+}
+
+ Fix gaps between links and texts
+.contact-block a,
+.contact-block span,
+.contact-block p {
+  display: inline;
+  margin: 0;
+}
+*/

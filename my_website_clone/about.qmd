@@ -1,0 +1,20 @@
+---
+title: "About (wip)"
+---
+
+I study Computer Science with a focus on systems, mathematics, and structured thinking.
+
+---
+
+## Interests
+
+- Algorithms and problem solving
+- System design
+- Knowledge organization using visual aides
+- Mathematical tinking
+
+---
+
+## Direction
+
+I am building long-term personal infrastructure for managing info automatically to reduce cognitive burdens.
