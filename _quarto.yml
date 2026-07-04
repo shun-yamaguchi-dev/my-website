@@ -1,0 +1,101 @@
+project:
+  type: website
+
+website:
+  title: "Shun's Personal Hub"
+
+  # Site metadata
+
+  # Navigation bar
+
+  # Sidebar (optional)
+
+  # Footer
+
+  # Search
+
+  # Reader mode
+
+  # Cookie banner
+
+  # Analytics
+
+  # Navigation bar
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Portfolio"
+        href: portfolio.qmd
+      - text: "Links"
+        href: links.qmd
+      - text: "Contact"
+        href: contact.qmd
+
+    #right:
+    #  - icon: github
+    #    href: https://...
+    #  - icon: linkdin
+    #    href: https://...
+
+    #backgroud:
+    #foregroud:
+    #search: false
+    #collaps: true
+    #pinned: true
+
+  # Footer
+  page-footer:
+    left:
+      - text: "© 2026 Shun Yamaguchi"
+    right: |
+      <a href="https://ko-fi.com/shuny"
+         target="_blank"
+         rel="noopener noreferrer">
+        ☕️ Buy me a coffee
+      </a>
+    #right:
+    #  - text: "☕️ Buy me a coffee"
+    #    href: https://ko-fi.com/shuny
+    #favicon: favicon.ico
+
+format:
+  html:
+    # Theme
+    theme:
+      - cosmo
+      - brand
+    # Custom.CSS
+    css: styles.css
+    # Layout
+    # page-layout: article
+    page-layout: full
+    
+    # Table of contents
+    toc: false
+    # toc-depth: 2
+    # number-sections: false
+
+    # Code blocks
+    # code-copy: true
+    # code-fold: false
+    # highlight-style: github
+
+    # Typography
+    # fontsize: 1em
+    # linestretch: 1.5
+    # mainfont:
+    # monofont:
+
+    # Link behavior
+    # link-external-newwindow: true
+    smooth-scroll: true
+
+    # Light / Dark mode
+    # theme:
+    #   light: cosmo
+    #   dark: darkly
