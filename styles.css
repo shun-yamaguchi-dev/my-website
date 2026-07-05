@@ -4,17 +4,20 @@
    Minimal link grid (no card look)
 ========================= */
 
-.grid {
+.grid
+{
   align-items: start;
   gap: 0.9rem;
 }
 
-.grid .g-col-6 {
+.grid .g-col-6
+{
   display: flex;
 }
 
 /* REMOVE card appearance completely */
-.grid .g-col-6 > * {
+.grid .g-col-6 > *
+{
   flex: 1;
   padding: 0.2rem 0;
   border: none;
@@ -28,14 +31,16 @@
 }
 
 /* title = link */
-.grid h3 {
+.grid h3
+{
   margin: 0;
   font-size: 1rem;
   font-weight: 500;
 }
 
 /* description = secondary line */
-.grid p {
+.grid p
+{
   margin: 0.2rem 0 0 0;
   font-size: 0.9rem;
   color: #666;
@@ -43,7 +48,8 @@
 
 /*
 Fix the parallel view
-.contact-block {
+.contact-block
+{
   display: flex;
   flex-wrap: nowrap;  or wrap
   align-items: center;
@@ -53,7 +59,8 @@ Fix the parallel view
  Fix gaps between links and texts
 .contact-block a,
 .contact-block span,
-.contact-block p {
+.contact-block p
+{
   display: inline;
   margin: 0;
 }
