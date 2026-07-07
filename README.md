@@ -1,9 +1,14 @@
 Project my_website
 ------
 
+# Repository Name
 
-Repository Name - my-website
+my-website
 
-Local Dir Name - my_website
+# Local Dir Name
 
-Published Dir - /_site
+my_website
+
+# Published Dir
+
+/_site
